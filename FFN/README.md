@@ -19,3 +19,8 @@ layer. The overview of the network is shown below. There is an input layer and t
   The loss functions can be viewed as a scalar in Tensorboard below
 
   ![alt text](https://raw.githubusercontent.com/ashyantony7/TensorFlow_Samples/master/doc/FFN_2.png)
+  
+#### (ii) Testing
+  1. Run FFN_Predict.py
+  2. Select the folder 'models' when prompted
+  3. Select the test dataset file
