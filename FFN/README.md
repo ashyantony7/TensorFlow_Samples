@@ -12,7 +12,8 @@ layer. The overview of the network is shown below. There is an input layer and t
   1. Run FFN_Train.py
   2. Select the data file 
   3. To view the graphs and loss functions enter in Terminal 
-  `  tensorboard --logdir=summaries`
+  
+   `  tensorboard --logdir=summaries`
        or
   `  python -m tensorboard.main --logdir=summaries`
   
